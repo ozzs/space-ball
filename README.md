@@ -16,3 +16,7 @@
 **Jump with spacebar**
 
 **Avoid all obstacles as much as you can**
+
+## Features
+* Randomly Generated Obstacles
+* Dynamic Wave System by Score
