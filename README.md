@@ -11,8 +11,8 @@
 
 ## Instructions
 
-**Move with A and D
+**Move with A and D**
 
-**Jump with spacebar
+**Jump with spacebar**
 
-**Avoid all obstacles as much as you can
+**Avoid all obstacles as much as you can**
