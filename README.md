@@ -11,7 +11,7 @@
 
 ## Instructions
 
-**Move with A and D**
+**Move with A and D** ⬅️ ➡️
 
 **Jump with spacebar**
 
