@@ -20,3 +20,12 @@
 ## Features
 * Randomly Generated Obstacles
 * Dynamic Wave System by Score
+* Multiple Obstacle Supported by Prefabs
+* WebGL
+* Animations
+* Post-Processing
+* Dynamic Emission
+* Particle System
+* High Score System
+* Menus UI: Main, Death & Pause
+* Music & Sliders
