@@ -17,7 +17,7 @@
  <a href="#-instructions">Instructions</a> •
  <a href="#-features">Features</a> •
  <a href="#-hotkeys">Hotkeys</a> •
- <a href="#-resources">Resources</a> •
+ <a href="#-resources">Resources</a>
 </p>
 <br />
 
