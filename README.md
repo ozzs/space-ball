@@ -34,8 +34,10 @@
 </p>
 
 ## 👨‍🏫 Instructions
-Avoid all obstacles as much as you can by moving left and right or jumping over them. <br />
+Avoid all obstacles as much as you can by moving left and right or jumping over them.
+
 The obstacles will move faster towards you as you level up. 🆙
+
 Note that the obstacles have different shapes, how will you choose to pass each of them in a smart way?
 
 ## 🎯 Features
